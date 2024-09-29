@@ -1,0 +1,10 @@
+- Toggle on Keypress
+- Unsilent Aim
+- Smooth Aim
+- Human Aim
+- Filter [Head | Neck | Chest | Legs]
+- Visibility Check
+- FOV Box [adjustable]
+- Accuracy [adjustable]
+- Smoothing [adjustable]
+- Anti-Recoil [adjustable]
